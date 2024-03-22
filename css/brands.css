@@ -87,6 +87,52 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Equinox Brands
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Equinox */
+.button.button-equinox {
+  color: #ffffff;
+  background-color: #000000;
+}
+.button.button-equinox:hover,
+.button.button-equinox:focus {
+  filter: brightness(90%);
+}
+
+/* Labflow */
+.button.button-labflow {
+  color: #ffffff;
+  background-color: #348c97;
+}
+.button.button-labflow:hover,
+.button.button-labflow:focus {
+  filter: brightness(90%);
+}
+
+/* Ocula */
+.button.button-ocula {
+  color: #ffffff;
+  background-color: #000000;
+}
+.button.button-ocula:hover,
+.button.button-ocula:focus {
+  filter: brightness(90%);
+}
+
+/* Comply Group */
+.button.button-comply {
+  color: #ffffff;
+  background-color: #7b1fcc;
+}
+.button.button-comply:hover,
+.button.button-comply:focus {
+  filter: brightness(90%);
+}
+
+/* Other Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 /* Amazon */
 .button.button-amazon {
   color: #000000;
