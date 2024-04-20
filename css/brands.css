@@ -46,8 +46,7 @@ button {
   outline: none;
   border-radius: 8px;
   cursor: pointer;
-  
-}     
+}
 button:hover,
 .button:focus {
   color: #212121;
@@ -62,6 +61,18 @@ button:hover,
 .button.button-primary:focus {
   color: #fff;
   filter: brightness(90%);
+}
+
+/* QR Code
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+img.qr-code {
+  display: inline-block;
+  height: 100%;
+  text-align: center;
+  vertical-align: middle;
+  width: 324px;
+  border-radius: 8px;
 }
 
 /* Brand Icons
